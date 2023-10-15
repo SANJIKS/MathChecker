@@ -1,0 +1,7 @@
+__pycache__/
+db.sqlite3
+venv/
+media/
+static/
+mathem/__pycache__/
+core/__pycache__/
